@@ -70,7 +70,7 @@ while True:
  print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-![WhatsApp Image 2024-09-14 at 10 51 30_feef8345](https://github.com/user-attachments/assets/220c4957-1a4e-41e2-a17a-67fe556c6851)
+![WhatsApp Image 2024-09-14 at 10 51 30_862c8ef8](https://github.com/user-attachments/assets/d66d7c02-7977-403c-9101-fa230cb19aae)
 
 ## OUPUT -RARP
 ![WhatsApp Image 2024-09-14 at 10 51 30_feef8345](https://github.com/user-attachments/assets/8ccb390e-9d19-415d-aef5-6d58c2adb2d6)
